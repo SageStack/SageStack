@@ -83,7 +83,7 @@ Welcome to my GitHub. I’m a penultimate-year Computer Science student at Auckl
 
 ## 🔗 Connect & Learn More
 
-- **Portfolio & Projects:** [hewapatha.com](https://hewapatha.com)
+- **Portfolio & Projects:** [hewapatha.com](https://hewapatha.com/?utm_source=github)
 - **CV:** [Download CV](https://hewapatha.com/cv) or view above
 - **Email:** shaluka.2005@icloud.com
 - **Phone:** +64 21 975 936
